@@ -1,0 +1,9 @@
+h1{
+   color:red;
+}
+
+body{ 
+    background-image: url('./images/2022_bmw_m5_cs_4k_8k-HD.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
